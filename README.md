@@ -1,7 +1,9 @@
 # Face_Recognition_System - 
 first open attendance.py and automaticAttendamce.py file and change the paths according to the system
 And then Run the attendance.py file
+
 #Explaination of project
+
  First run the project then it asks for register your face, so that the system can identify you and then click on the register new student then it can register you.
  After clicking on Take Image, a camera window will open then enter your id and name and then click on take image.
  After click on take image it can detect your face and it can take upto 50 images it can take and stored in the folder TrainingImage
