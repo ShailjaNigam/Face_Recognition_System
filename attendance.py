@@ -118,13 +118,13 @@ label1 = Label(window, image=r)
 label1.image = r
 label1.place(x=100, y=270)
 
-ai = Image.open("UI_Image/viewA.jpg")
+ai = Image.open("viewA.jpg")
 a = ImageTk.PhotoImage(ai)
 label2 = Label(window, image=a)
 label2.image = a
 label2.place(x=980, y=270)
 
-vi = Image.open("UI_Image/takeA.jpg")
+vi = Image.open("takeA.jpg")
 v = ImageTk.PhotoImage(vi)
 label3 = Label(window, image=v)
 label3.image = v
