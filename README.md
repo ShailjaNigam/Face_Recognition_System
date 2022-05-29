@@ -11,4 +11,4 @@ And then Run the attendance.py file
  We are training the image so that next time when we will show the same face to the computer it will easily identify the face.
  After training model you have to click on the Automatic Attendance ,you have to enter the subject name and then it can fill attendace by your face using our trained model.
  it will create .csv file for every subject you enter and seperate every .csv file accoriding the subject
- After that click on Vie Attendance button and then then click on check sheet where you can see the attendance sheet in excel.
+ After that click on View Attendance button and then then click on check sheet where you can see the attendance sheet in excel.
